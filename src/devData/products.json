@@ -1,0 +1,584 @@
+{
+    "categories": [
+        {
+            "name": "cd_afspillere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "creek_classic_cd.jpg",
+                    "title": "Creek Classic CD",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "creek_Destiny_CD.jpg",
+                    "title": "Creek Destiny CD",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "creek_evo_cd.jpg",
+                    "title": "Creek evo CD",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Marantz",
+                        "Manufacturer Link": "Marantz",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "Exp_2010S_CD.gif",
+                    "title": "Exp 2010S CD",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Marantz",
+                        "Manufacturer Link": "Marantz",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "dvdafspillere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "creek_classic.jpg",
+                    "title": "Creek Classic",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "exposure_2010S.jpg",
+                    "title": "Exposure 2010S",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Exposure",
+                        "Manufacturer Link": "Exposure",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "parasound_d200.jpg",
+                    "title": "Parasound d200",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Parasound",
+                        "Manufacturer Link": "Parasound",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "parasound_halod3.jpg",
+                    "title": "Parasound halod 3",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Parasound",
+                        "Manufacturer Link": "Parasound",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "effektforstaerkere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "manley_mahi.jpg",
+                    "title": "Manley Mahi",
+                    "price": "£100",
+                    "brand": "Manley",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Manley",
+                        "Manufacturer Link": "Manley",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "manley_neoclassic300b.jpg",
+                    "title": "Manley Neo classic 300b",
+                    "price": "£100",
+                    "brand": "Manley",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Manley",
+                        "Manufacturer Link": "Manley",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "manley_snapper.jpg",
+                    "title": "Manley Snapper",
+                    "price": "£100",
+                    "brand": "Manley",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Manley",
+                        "Manufacturer Link": "Manley",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "parasound_haloa23.jpg",
+                    "title": "Parasound halod 23",
+                    "price": "£100",
+                    "brand": "Parasound",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Parasound",
+                        "Manufacturer Link": "Parasound",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "forforstaerkere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "Creek_OBH_22_Passive_Preamp.jpg",
+                    "title": "Creek OBH 22 Passive Preamp",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "parasound_classic7100.jpg",
+                    "title": "Parasound classic 7100",
+                    "price": "£100",
+                    "brand": "Parasound",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Parasound",
+                        "Manufacturer Link": "Parasound",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "parasound_halop3.jpg",
+                    "title": "Parasound halo p3",
+                    "price": "£100",
+                    "brand": "Parasound",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Parasound",
+                        "Manufacturer Link": "Parasound",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "Project_prebox.jpg",
+                    "title": "Project prebox",
+                    "price": "£100",
+                    "brand": "Project",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Project",
+                        "Manufacturer Link": "Project",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "hojtalere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "boesendorfer_vcs_wall.gif",
+                    "title": "Bösendorfer vcs wall",
+                    "price": "£100",
+                    "brand": "Bösendorfer",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Bösendorfer",
+                        "Manufacturer Link": "Bösendorfer",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "epos_m5.gif",
+                    "title": "Epos m5",
+                    "price": "£100",
+                    "brand": "Epos",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Epos",
+                        "Manufacturer Link": "Epos",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "harbeth_hl7es2.jpg",
+                    "title": "Harbeth h17 es2",
+                    "price": "£100",
+                    "brand": "Harbeth",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Harbeth",
+                        "Manufacturer Link": "Harbeth",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "harbeth_monitor30.jpg",
+                    "title": "Harbeth monitor 30",
+                    "price": "£100",
+                    "brand": "Harbeth",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Harbeth",
+                        "Manufacturer Link": "Harbeth",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 5,
+                    "image": "harbeth_p3es2.jpg",
+                    "title": "Harbeth p3es2",
+                    "price": "£100",
+                    "brand": "Harbeth",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Harbeth",
+                        "Manufacturer Link": "Harbeth",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "int_forstaerkere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "creek_a50I.jpg",
+                    "title": "Creek a50I",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "creek_classic5350SE.jpg",
+                    "title": "Creek classic c5350SE",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "creek_destinyamp.jpg",
+                    "title": "Creek Destiny amp",
+                    "price": "£100",
+                    "brand": "Creek",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Creek",
+                        "Manufacturer Link": "Creek",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "manley_snapper.jpg",
+                    "title": "Manley snapper",
+                    "price": "£100",
+                    "brand": "Manley",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Manley",
+                        "Manufacturer Link": "Manley",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 5,
+                    "image": "Manley_Stingray.jpg",
+                    "title": "Manley Stingray",
+                    "price": "£100",
+                    "brand": "Manley",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Manley",
+                        "Manufacturer Link": "Manley",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "pladespillere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "Pro_ject_Debut_3_bl.jpg",
+                    "title": "Pro Ject Debut 3 bl",
+                    "price": "£100",
+                    "brand": "Pro Ject",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Pro Ject",
+                        "Manufacturer Link": "Pro Ject",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "Pro_ject_Debut_III_red_1.jpg",
+                    "title": "Pro Ject Debut III red",
+                    "price": "£100",
+                    "brand": "Pro Ject",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Pro Ject",
+                        "Manufacturer Link": "Pro Ject",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "Pro_ject_Debut_III_yellow_1.jpg",
+                    "title": "Pro Ject Debut III yellow",
+                    "price": "£100",
+                    "brand": "Pro Ject",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Pro Ject",
+                        "Manufacturer Link": "Pro Ject",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "Pro_ject_rpm_5.jpg",
+                    "title": "Pro Ject rpm5",
+                    "price": "£100",
+                    "brand": "Pro Ject",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Pro Ject",
+                        "Manufacturer Link": "Pro Ject",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 5,
+                    "image": "Pro_ject_rpm10.jpg",
+                    "title": "Pro Ject rpm10",
+                    "price": "£100",
+                    "brand": "Pro Ject",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Pro Ject",
+                        "Manufacturer Link": "Pro Ject",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "roer_forstaerkere",
+            "products": [
+                {
+                    "id": 1,
+                    "image": "jolida_JD102b.jpg",
+                    "title": "Jolida JD102b",
+                    "price": "£100",
+                    "brand": "Jolida",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Jolida",
+                        "Manufacturer Link": "Jolida",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 2,
+                    "image": "jolida_JD202a.jpg",
+                    "title": "Jolida JK202a",
+                    "price": "£100",
+                    "brand": "Jolida",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Jolida",
+                        "Manufacturer Link": "Jolida",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 3,
+                    "image": "jolida_JD300b.jpg",
+                    "title": "Jolida JD300b",
+                    "price": "£100",
+                    "brand": "Jolida",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Jolida",
+                        "Manufacturer Link": "Jolida",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 4,
+                    "image": "jolida_JD302b.jpg",
+                    "title": "Jolida JD302b",
+                    "price": "£100",
+                    "brand": "Jolida",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Jolida",
+                        "Manufacturer Link": "Jolida",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                },
+                {
+                    "id": 5,
+                    "image": "jolida_JD502b.jpg",
+                    "title": "Jolida JD502b",
+                    "price": "£100",
+                    "brand": "Jolida",
+                    "infoText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam molestiae aliquid libero. Pariatur veniam culpa dolores necessitatibus fugit eaque dicta?",
+                    "additionalInfo": {
+                        "Manufacturer": "Jolida",
+                        "Manufacturer Link": "Jolida",
+                        "Free Warrenty": "3 Years",
+                        "Delivery Charge": "Free",
+                        "Delivery Time": "1-5 Working Days"
+                    }
+                }
+            ]
+        }
+    ]
+}

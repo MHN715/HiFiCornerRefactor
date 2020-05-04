@@ -1,0 +1,72 @@
+
+
+/* p{
+    color: black;
+} */
+
+
+.pipe{
+    padding: 0.5rem;
+}
+
+
+.footer{
+
+background-color: #A39161;
+grid-area: footer;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+height: 3.75rem;
+     
+}
+
+.footerAdr{
+
+
+font-size: 0.5rem;
+color: rgb(56, 53, 53);
+line-height: 0.6;
+font-weight: 250;
+padding: 10 0 10 10px;
+
+}
+
+.footerLink{
+    
+
+justify-content: left;
+text-align: center;
+padding-right: 37.5rem;
+text-decoration: underline;
+   
+}
+ 
+.imgIcon{
+justify-content: center;
+display: flex;
+
+}  
+
+.img1, .img2, .img3, .img4, .img5, .img5, .img6{
+    display: flex;
+    padding: 0rem 0.3rem 0.5rem 0.4rem;
+    align-items: center;
+    
+}
+
+.icons{
+    
+align-items: flex-end;
+justify-content: right;
+font-size: 0.9rem;
+padding-bottom: 0.9rem;
+padding-top: 0.62rem; 
+display: flex;
+flex-wrap: wrap;
+         
+}
+
+.icon1, .icon2, .icon3, .icon4{
+padding: 0.4rem;
+}

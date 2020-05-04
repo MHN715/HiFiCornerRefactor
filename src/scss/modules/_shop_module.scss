@@ -1,0 +1,58 @@
+.shop-main{
+    background-color: #000;
+}
+.block_container
+{
+    max-width: 40rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 10rem 10rem 10rem 10rem;
+    margin: auto;
+    background-color: #A39161;
+    
+    
+    
+    
+}
+
+.producttype{
+    width: 10rem;
+    
+    
+}
+
+.block_container a{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Museo Sans Rounded 500';
+    font-size: 0.7rem;
+    font-weight: bolder;
+    filter: opacity(50%) sepia(100%);
+   
+}
+
+.block_container a:hover{
+    display: flex;
+    cursor: pointer;
+    filter: opacity(100%);
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0.0625rem  0.0625rem  black;
+   
+}
+
+.block_container p{
+    position: absolute;
+    color: white
+   
+    
+    
+}
+
+
+

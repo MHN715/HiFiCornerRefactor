@@ -1,0 +1,68 @@
+/*--HEADER ICONS--*/
+.header__icons{
+    position: absolute;
+    right:8rem;
+    display:flex;
+}
+.header__icons .fas{
+    font-size:1rem;
+    padding:0 1rem;
+    margin-top:1rem;
+}
+.header__icons .fa-envelope{
+    font-size:0.7rem;
+    padding:0;
+    margin:0 0;
+    margin-top:0.1rem;
+    color:#fff;
+}
+.header__icons p{
+    font-size:0.7rem;
+    padding:0;
+    margin:0 0;
+    margin-left:0.5rem;
+    color:#fff;
+    font-weight:bold;
+}
+.header__icons div{
+    display:flex;
+    background-color:#add8e6;
+    margin-top:1rem;
+    padding:0.2rem 0.6rem;
+    border-radius:3px;
+}
+/*--Pseudo classes--*/
+.header__icons .fa-map-marker-alt:hover{
+    transition:1s;
+    cursor:pointer;
+    color:red;
+}
+.header__icons .fa-phone-alt:hover{
+    transition:1s;
+    cursor:pointer;
+    color:blue;
+}
+.header__icons .fa-envelope-open-text:hover{
+    transition:1s;
+    cursor:pointer;
+    color:green;
+}
+/*--NAVIGATION--*/
+.navigation{
+    position:absolute;
+    top:3rem;
+    width:100%;
+    background-color:#000;
+}
+.navigation__liste{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+}
+.navigation__liste-items{
+    color:#fff;
+    padding:0 1rem;
+    font-size:0.7rem;
+    cursor:pointer;
+    font-family:"Museo Sans Rounded", sans-serif;
+}

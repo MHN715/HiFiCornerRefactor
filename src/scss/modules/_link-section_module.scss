@@ -1,0 +1,122 @@
+resets
+html,body{margin:0;padding:0;}
+*{box-sizing: border-box;}
+img{max-width: 100%;}
+/* resets / end */
+
+@font-face {
+    font-family: "MuseoSansRounded100";
+    src: url("/Fonts/MuseoSansRounded100.woff");
+}
+@font-face {
+    font-family: "MuseoSansRounded300";
+    src: url("/Fonts/MuseoSansRounded300.woff");
+}
+@font-face {
+    font-family: "MuseoSansRounded500";
+    src: url("/Fonts/MuseoSansRounded500.woff");
+}
+@font-face {
+    font-family: "MuseoSansRounded700";
+    src: url("/Fonts/MuseoSansRounded700.woff");
+}
+@font-face {
+    font-family: "MuseoSansRounded900";
+    src: url("/Fonts/MuseoSansRounded900.woff");
+}
+@font-face {
+    font-family: "MuseoSansRounded1000";
+    src: url("/Fonts/MuseoSansRounded1000.woff");
+}
+
+
+.linksection{
+    height: 37rem; 
+    background: #000;
+}
+.social-media-links{
+    height: 25rem; 
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    list-style-type: none;
+    padding-left: 0;
+}
+.social-media-links__facebook{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://images.assetsdelivery.com/compings_v2/gdolgikh/gdolgikh1509/gdolgikh150900128.jpg");
+}
+.social-media-links__blogger{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://c4.wallpaperflare.com/wallpaper/951/392/932/headphones-black-and-white-hi-tech-sennheiser-wallpaper-preview.jpg");
+}
+.social-media-links__twitter{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://i.pinimg.com/originals/6b/11/05/6b11054a9569e2f03ea6c47cdba28973.jpg");
+}
+
+.social-media-links__facebook,
+.social-media-links__blogger,
+.social-media-links__twitter{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.social-media-links__facebook-icon,
+.social-media-links__blogger-icon,
+.social-media-links__twitter-icon{
+    color: #fff;
+    font-size: 11rem;
+    transition: 500ms;
+}
+.social-media-links__facebook-icon:hover{
+    color: #3b5998;
+}
+.social-media-links__blogger-icon:hover{
+    color: #f57d00;
+} 
+.social-media-links__twitter-icon:hover{
+    color: #1da1f2;
+}
+
+.info-links{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(3 ,1fr);
+    list-style-type: none;
+    padding-left: 0;
+    padding: 2rem 20% 0 20%;
+    grid-gap: 2rem;
+}
+
+.info-links__link1,
+.info-links__link2,
+.info-links__link3{
+    display: grid;
+    justify-items: center;
+    min-width: 7.6rem;
+    max-width: 13rem;
+}
+
+.info-links__button1,
+.info-links__button2,
+.info-links__button3{
+    padding: 0.3rem 0.7rem 0.3rem 0.7rem;
+    height: 1.5rem;
+    display: flex;
+    align-items: center;
+    color: #A39161;
+    background: #000;
+    font-weight: bold;
+    margin-bottom: -0.4rem;
+    cursor: pointer;
+}
+
+.info-links__text1,
+.info-links__text2,
+.info-links__text3{
+    font-size: 0.75rem;
+    text-align: center;
+    color: #fff;
+    height: 7rem;
+    font-family: "MuseoSansRounded100", sans-serif;
+}
